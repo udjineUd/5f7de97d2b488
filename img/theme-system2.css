@@ -1,0 +1,19 @@
+/* Text */
+.text-theme { color: #222222; } /* rgba(0,0,0,0.87) */
+.text-theme-2 { color: #767676; } /* rgba(0,0,0,0.54) */
+.text-theme-mute { color: #999999; } /* rgba(255,255,255,0.50) */
+
+/* Border */
+.border-theme { border-color: #DFDFDF; } /* rgba(0,0,0,0.125) */
+
+/* Form */
+.input-group-theme .input-group-text { background: #CDCED0; border-color: #CDCED2; color: #222222; }
+.input-group-theme .btn { background: #CDCED0; border-color: #CDCED2; color: #222222; }
+.input-group-theme .btn-theme.focus, .input-group-theme .btn:focus { box-shadow: 0 0 0 0.2rem rgba(0, 0, 0, 0.10); }
+  
+.table-line-row tr:nth-child(odd) {
+    background-color: #f8f8f8;
+}
+.pageInformpayment input:read-only {
+	background-color: #dfdfdf;
+}
